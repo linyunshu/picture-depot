@@ -1,2 +1,2 @@
-# map-depot
+# picture-depot
 图库
